@@ -5,48 +5,44 @@ The style file: input/prsty.bst.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
-Warning--Warning: journal missing in entry Bosted:2012qc.
-Warning--Warning: volume missing in entry Bosted:2012qc.
-Warning--Warning: pages missing in entry Bosted:2012qc.
 You've used 6 entries,
             1909 wiz_defined-function locations,
-            541 strings with 4360 characters,
-and the built_in function-call counts, 1084 in all, are:
-= -- 26
-> -- 58
+            544 strings with 4406 characters,
+and the built_in function-call counts, 1135 in all, are:
+= -- 30
+> -- 61
 < -- 0
-+ -- 18
-- -- 12
++ -- 19
+- -- 13
 * -- 90
-:= -- 141
+:= -- 148
 add.period$ -- 6
 call.type$ -- 6
 change.case$ -- 1
 chr.to.int$ -- 0
-cite$ -- 9
+cite$ -- 6
 duplicate$ -- 49
-empty$ -- 124
-format.name$ -- 18
-if$ -- 251
+empty$ -- 128
+format.name$ -- 19
+if$ -- 270
 int.to.chr$ -- 0
 int.to.str$ -- 6
 missing$ -- 0
 newline$ -- 21
 num.names$ -- 6
-pop$ -- 43
+pop$ -- 40
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 79
+skip$ -- 86
 stack$ -- 0
-substring$ -- 42
-swap$ -- 27
+substring$ -- 54
+swap$ -- 28
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
+warning$ -- 0
 while$ -- 10
 width$ -- 7
 write$ -- 30
-(There were 3 warnings)
