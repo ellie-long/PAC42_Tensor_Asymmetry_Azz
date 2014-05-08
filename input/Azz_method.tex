@@ -106,60 +106,52 @@ With careful minimization, the uncertainty in $P_z$ can be held to better than
 This leads to a a relative uncertainty in $P_{zz}$ of 7.7\%.  Alternatively, the tensor asymmetry can be directly extracted from the NMR lineshape as discussed in Sec.~\ref{POLTARGSEC}, with similar uncertainty.  The uncertainty from the dilution factor and packing fraction of the ammonia target contributes at the 4\% level.
 %
 %subsubsection*{Radiative Corrections }
-The systematic effect on $A_{zz}$ due to the QED radiative corrections will be quite small.  For our measurement
-there will be no polarized radiative corrections at the lepton vertex, and the unpolarized corrections are known
-to better than 1.5\%.
+The systematic effect on $A_{zz}$ due to the QED radiative corrections will be quite small.  For our measurement there will be no polarized radiative corrections at the lepton vertex, and the unpolarized corrections are known to better than 1.5\%.
 
-% ---------- ELLS IS THE ABOVE SENTENCE STILL TRUE IN QE????? ----------------
+% ********************************************************************************
+% -------- FUTURE ELLS, IS THE ABOVE SENTENCE STILL TRUE IN QE????? --------------
+% -------- PAST ELLS, I STILL DON'T KNOW ---------
+% ********************************************************************************
 
 Charge calibration and detector efficiencies are expected to be known better to 1\%, but the impact of time-dependent drifts in these quantities must be carefully controlled.
 
 \subsubsection*{Time dependent factors}
 Eq.~\ref{3} involves the ratio of counts, which leads to cancellation of several first order systematic effects.  However, the fact that the two data sets will not be taken simultaneously leads to a sensitivity to time dependent variations which will need to be carefully monitored and suppressed.
 %
-To investigate the systematic differences in the time dependent components of the
-integrated counts, we need to consider the effects from calibration, efficiency, acceptance,
-and luminosity between the two polarization states.
+To investigate the systematic differences in the time dependent components of the ntegrated counts, we need to consider the effects from calibration, efficiency, acceptance, and luminosity between the two polarization states.
 
-Fluctuations in luminosity due to target density variation can easily be kept to a
-minimum by keeping the material beads at the same temperature for both polarization
-states by control of the microwave and the LHe evaporation.  The He vapor pressure reading
-can give accuracy of material temperature changes at the level of $\sim$0.1\%.
+Fluctuations in luminosity due to target density variation can easily be kept to a minimum by keeping the material beads at the same temperature for both polarization states by control of the microwave and the LHe evaporation.  The He vapor pressure reading can give accuracy of material temperature changes at the level of $\sim$0.1\%.
 Beam rastering can also be controlled to a high degree. 
 %(someone who know more about beam rastering control and errors should put something here.)
 
-The acceptance of each cup can only change as a function of time if the magnetic field
-changes.  The capacity to set and reset and hold, set-ability, the target supper conducting magnet
-to a desired holding field is $\delta B /B=$0.01\%.  This implies that like the cup length $l$ and the
-acceptance ${\cal A}$ for each polarization states is the same.
+The acceptance of each cup can only change as a function of time if the magnetic field changes.  
+The capacity to set, reset, and hold the target superconducting magnet to a desired holding field causes a field uncertainty of only $\delta B /B=0.01\%$. 
+This implies that, like the cup length $l$, the acceptance ${\cal A}$ for each polarization state is the same.
 
-In order to look at the effect on $A_{zz}$ due to drifts in beam current measurement
-calibration and detector efficiency 
-we rewrite Eq.~\ref{3} explicitly in terms of the raw measured counts $N_1$ and $N$,
+In order to look at the effect on $A_{zz}$ due to drifts in beam current monitor calibration and detector efficiency, we rewrite Eq.~\ref{3} explicitly in terms of the raw measured counts $N_p^c$ and $N_u^c$,
 \begin{eqnarray} \label{3c}
 \nonumber
-A_{zz}&=&\frac{2}{fP_{zz}}\left(\frac{N^c_1}{N^c}-1\right) \\
-      &=&\frac{2}{fP_{zz}}\left(\frac{Q\varepsilon l \cal{A}}{Q_1\varepsilon_1 l \cal{A}}\frac{N^1}{N}-1\right)
+A_{zz}&=&\frac{2}{fP_{zz}}\left(\frac{N^c_p}{N^c_u}-1\right) \\
+      &=&\frac{2}{fP_{zz}}\left(\frac{Q\varepsilon l \cal{A}}{Q_1\varepsilon_1 l \cal{A}}\frac{N_p}{N_u}-1\right)
 \end{eqnarray}
 where $Q$ represents the accumulated charge, and $\varepsilon$ is the detector efficiency. The target length $l$  and acceptance $\cal{A}$ are identical in both states to first order.
 
 We can then express $Q_1$ as the change in beam current measurement calibration that occurs in
-the time it takes to collect data in one polarization state before switching such that $Q_1=Q(1-dQ)$.
+the time it takes to collect data in one polarization state before switching to another, such that $Q_1=Q(1-dQ)$.
 In this notation $dQ$ is a dimensionless ratio of changes in different polarization states.  A similar representation
 is used for drifts in detector efficiency leading to,
 \begin{equation}
-A_{zz}=\frac{2}{fP_{zz}}\left(\frac{N_1Q(1-dQ)\varepsilon(1-d\varepsilon)}{NQ\varepsilon}-1\right).
+A_{zz}=\frac{2}{fP_{zz}}\left(\frac{N_pQ(1-dQ)\varepsilon(1-d\varepsilon)}{N_u Q\varepsilon}-1\right).
 \end{equation}
-which leads to,
+which simplifies to,
 \begin{equation}
-A_{zz}=\frac{2}{fP_{zz}}\left(\frac{N_1}{N}(1-dQ-d\varepsilon+dQd\varepsilon)-1\right).
+A_{zz}=\frac{2}{fP_{zz}}\left(\frac{N_p}{N_u}(1-dQ-d\varepsilon+dQd\varepsilon)-1\right).
 \end{equation}
 
 For estimates of the $dQ$ and $d\varepsilon$ we turn to previous experimental
-studies.  For HRS detector drift during JLab transversity experiment E06-010, the detector response
-was measured such that the normalized yield for same condition over a three month period indicated little change ($<1$\%).
-These measurement where then use to show that for short time (20 minutes periods between target spin flip),
-the detector drift is estimated to be less than 1\% times the ratio of the time period between target spin flip and three months.
+studies.  For HRS detector drift during the JLab transversity experiment E06-010, the detector response was measured such that the normalized yield for same condition over a three month period indicated little change ($<1$\%).
+These measurement were then used to show that for short time (20 minutes periods between target spin flip),
+the detector drift was estimated to be less than 1\% times the ratio of the time period between target spin flip and three months.
 For the present experiment we use the same estimate except for the period between target polarization states used is
 $\sim$12 hours leading to an overall drift $d\varepsilon\sim0.01\%$.  A similar approach can be used to establish an estimate
 for $dQ$ using studies from the data from the (g2p/GEp) experiment resulting in $d\varepsilon\sim0.01\%$.
@@ -168,68 +160,20 @@ To express $A_{zz}$ in terms of the estimated experimental drifts in efficiency 
 \begin{equation}
 A_{zz}=\frac{2}{fP_{zz}}\left(\frac{N_1}{N}-1\right)\pm\frac{2}{fP_{zz}}d\xi.
 \end{equation}
-This leads to a contribution to $A_{zz}$ on the order of $1\times10^-3$,
+This leads to a contribution to $A_{zz}$ on the order of $1\times10^{-3}$,
 \begin{equation}
 dA_{zz}^{drift}=\pm\frac{2}{fP_{zz}}d\xi=\pm3.7\times10^{-3}.
 \end{equation}
-Though a very important contribution to the error this value allows a clean measurement of $A_{zz}=0$ at $x=0.45$
-without overlap with the Hermes error bar.  For this estimate we assume only two polarization state changes in a
-day.  If it is possible to increase this rate then the systematic effect in $A_{zz}$ also decreases accordingly.
+Though a very important contribution to the error this value allows a clean measurement of $A_{zz}=0$ at $x=0.45$ without overlap with the Hermes error bar.
+For this estimate we assume only two polarization state changes in a
+day. 
+If it is possible to increase this rate then the systematic effect in $A_{zz}$ will decrease accordingly.
 
 Naturally detector efficiency can drift for a variety of reasons, for
 example including fluctuations in gas quality, HV drift or
 drifts in the spectrometers magnetic field.  All of these types of variation as can be realized both
 during the experiment though monitoring as well as systematic studies of the data collected.
 
-There can be difficult to know changes in luminosity however the identical condition of the two
-polarization states minimizes the relative changes in time.  There are also checks on the consistency
-of the cross section data that can be use ensuring the quality of each run used in the asymmetry analysis.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-%Systematic variation in time due to detector drift was
-%studied for transversity JLab experiment E06-010. For 3 months running, all detectors in
-%HRS were stable to about a 1\% level.  
-%%The scintillators, drift chambers, and 
-%%lead-glass shower detector are stable to $\sim$2\% in 3 months, assuming
-%%no significant radiation damage or detector gas loss.
-%%For the measurement of $A_{zz}$ we expect no issue with radiation damage
-%%being the beam current is comparatively low and in the spectrometer.
-%
-%
-%%\subsubsection*{Charge Determination }
-%%The Beam Charge Monitor at low current are estimated to have an uncertainty 
-%%at the level 1-2\%.  
-%%
-%The BCM/BPM for low current readouts was recently re-designed for g2p.
-%This was also used for QWeak, so it is available in Hall C.
-%The signal to noise ratio suppression, was designed to reach
-%1\% in less than 1 s.
-%The Hall-A Tungsten calorimeter will be used to further reduce the charge determination systematic.
-%%Integrating over a reasonable time, the charge can be measured to ^M
-%%better than 1\%.
-%With the calibration of Tungsten calorimeter, the BCM will have an absolute uncertainty 
-%at the level of 1-2\%, and relative uncertainty (from one target polarization period 
-%to next period) should be better than 1\%, depending on the linearity and the drift of the 
-%BCM response.
-
-
+It can be difficult to know changes in luminosity, however the identical condition of the two polarization states minimizes the relative changes in time.
+There are also checks on the consistency of the cross section data that can be use ensuring the quality of each run used in the asymmetry analysis.
+Each of these systematic effects can mitigate the systematic uncertainty to $\sim0.001$, which is required for the $b_1$ measurement. In the kinematic region proposed here, $A_{zz}$ is expected to be much larger, on the order of $0.1$ to $1.0$. While typical false asymmetries in Hall C of $0.01$ are acceptable for this proposed measurement, it can also allow for a test of the methods used to reduce them further.
