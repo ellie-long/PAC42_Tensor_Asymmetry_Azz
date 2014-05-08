@@ -11,7 +11,7 @@ vector (tensor) asymmetry of the virtual-photon deuteron cross section.  This al
 the polarized tensor asymmetry with $0<P_{zz}\leq 1$ using an unpolarized electron beam as
 \begin{eqnarray}
 \label{Azz}
-A_{zz} = \frac{2}{P_{zz}}\left(\frac{\sigma_p}{\sigma_u} - 1\right),
+A_{zz} = \frac{2}{P_{zz}}\left(\frac{\sigma_p - \sigma_u}{\sigma_u}\right),
 \end{eqnarray}
 where $\sigma_p$ is the polarized cross section. The tensor polarization is given by 
 \begin{equation}
@@ -20,40 +20,43 @@ P_{zz}=\frac{n_+-2n_0+n_-}{n_++n_-+n_0},
 where $n_m$ represents the population in the $m_z=+1$,~$-1$,~or $0$ state.
 
 Eq. \ref{Azz} reveals that the asymmetry $A_{zz}$ compares two different cross sections measured under different polarization conditions of the target: positively tensor polarized and unpolarized.  
-To obtain the relative cross section measurement in the same configuration, the same target 
-cup and material will be used at alternating polarization states (polarized vs. unpolarized),  
-and the magnetic field providing the quantization axis will be oriented along the beamline at all times.
+To obtain the relative cross section measurement in the same configuration, the same target cup and material will be used at alternating polarization states (polarized vs. unpolarized),  and the magnetic field providing the quantization axis will be oriented along the beamline at all times.
 This field will always be held at the same value, regardless of the target material polarization state. 
-This process, identical to that used for E12-13-011, ensures that the acceptance remains consistent within the stability (10$^{-4}$) of the super conducting magnet.  
+This process, identical to that used for the E12-13-011 $b_1$ measurement, ensures that the acceptance remains consistent within the stability (10$^{-4}$) of the super conducting magnet.  
 
 
 Since many of the factors involved in the cross sections cancel in
 the ratio, Eq. \ref{Azz} can be expressed in terms 
 of the charge normalized, efficiency corrected numbers of tensor polarized ($N_p$) and unpolarized ($N_u$) counts, 
 \begin{eqnarray} \label{3}
-A_{zz}&=&\frac{2}{fP_{zz}}\left(\frac{N_p}{N_u}-1\right) .
+A_{zz}&=&\frac{2}{fP_{zz}}\left(\frac{N_p - N_u}{N_u}\right) .
 \end{eqnarray}
 
 The dilution factor $f$ corrects for the presence of unpolarized nuclei in the target and is defined by
 \begin{equation}
-f=\frac{N_D\sigma_D}{N_N\sigma_N+N_D\sigma_D+\Sigma N_A\sigma_A},
+f=\frac{N_D\sigma_D}{N_N\sigma_N+N_D\sigma_D+\sum\limits_{A} N_A\sigma_A},
 \end{equation}
-where $N_D$ is the number of deuterium nuclei in the target and $\sigma_D$ 
-is the corresponding inclusive double differential scattering cross 
-section,
-$N_N$ is the nitrogen number of scattered nuclei with cross section $\sigma_N$, and
-$N_A$ is the numbers of other scattering nuclei of mass number $A$ with cross section $\sigma_A$.
-The denominator of the dilution factor can be written in terms of the relative volume ratio of
-ND$_3$ to LHe in the target cell, otherwise known as  the packing fraction $p_f$.  In our case of a cylindrical target cell oriented along the magnetic field,
-the packing fraction is exactly equivalent to the percentage of the cell length filled with ND$_3$.  
+where $N_D$ is the number of deuterium nuclei in the target and $\sigma_D$ is the corresponding inclusive double differential scattering cross 
+section, $N_N$ is the nitrogen number of scattered nuclei with cross section $\sigma_N$, and $N_A$ is the number of other scattering nuclei of mass number $A$ with cross section $\sigma_A$. As has been noted in previous work~\cite{Frankfurt:1988nt}, the dilution factor at high $x$ drops off considerably until the SRC plateau region, as shown in Fig.~\ref{fdil}. By using a high-luminosity solid target and a low angle $\theta_{e'}$, this effect will be largely counteracted.
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=0.45\textwidth]{figs/fdil_q2_15.eps}
+\caption{\label{fdil}The estimated dilution factor, in this case at $Q^2=1.5 \mathrm{~(GeV}/c)^2$, is expected to drop off at high $x$ until it reaches the SRC plateau region. This effect will be counteracted by using a high-luminosity solid target.}
+\end{center}
+\end{figure}
+
+
+The dilution factor can be written in terms of the relative volume ratio of ND$_3$ to LHe in the target cell, otherwise known as the packing fraction $p_f$.  
+In our case of a cylindrical target cell oriented along the magnetic field,the packing fraction is exactly equivalent to the percentage of the cell length filled with ND$_3$.  
 %The dilution factor is discussed in further detail in Sec. \ref{dil}.
 
-The time necessary to achieve the desired precision $\delta A$ is:
+If the time is evenly split between scattering off of polarized and unpolarized ND$_3$, the time necessary to achieve the desired precision $\delta A$ is:
 \begin{equation}
-T=\frac{N_T}{R_T}=\frac{16}{P_{zz}^2f^2\delta A_{zz}^2R_T}
+T=\frac{N_p}{R_p}+\frac{N_u}{R_u}=\frac{8}{f^2P_{zz}^2}\left(\frac{R_p(R_u+R_p)}{R_u^3}\right)\frac{1}{\delta A_{zz}^2}
 \end{equation} 
-where $R_T$ is the total rate and $N_T = N_p + N_u$ is the total estimated 
-number of counts to achieve the uncertainty $\delta A_{zz}$.  
+where $R_{p(u)}$ is the polarized (unpolarized) rate and $N_{p(u)}$ is the total estimated 
+number of polarized (unpolarized) counts to achieve the uncertainty $\delta A_{zz}$.  
 
 %See Sec.~\ref{stat} for full details of the statistical uncertainty.
 
@@ -77,7 +80,7 @@ The statistical error with respect to counts is then
 \begin{tabular}{l|c}\hline\hline
 Source                         & Systematic \\
 \hline
-Polarimetry                  &   9.0\%   \\
+Polarimetry                  &   7.7\%   \\
 Dilution/packing fraction    &   4.0\%   \\
 Radiative corrections        &   1.5\%   \\
 %Detector Drift               &   1.0\%   \\
@@ -98,44 +101,6 @@ Total  &  10\%   \\
 
 Table \ref{error1} shows a list of the scale dependent uncertainties contributing to the systematic error in $A_{zz}$.
 
-%The resulting estimate in the relative uncertainty of $A_{zz}$ is 9.2\%.
-%\begin{table}
-%\begin{center}
-%\begin{tabular}{lccc}
-%&source & error (\%)\\ \hline
-%&Target Polarization & 8\% \\
-%&Dilution/Packing fraction & 4\% \\
-%&Detector Drift & 1\% \\
-%&Radiative Corrections & 1.5\% \\
-%&Charge Determination & 1\% \\
-%&Detector resolution and efficiency & 1\% \\\hline
-%   &Total & 9.2\% \\\hline
-%\end{tabular}
-%\end{center}
-%\caption{The systematic error estimates of the $A_{zz}$ asymmetry measurement.}
-%\label{error1}
-%\end{table}
-%
-%
-%The systematic uncertainty of the asymmetry $A_{zz}$ can be estimated based on known relative uncertainties and 
-%the systematic effects seen in past experiments.  
-%
-%\subsubsection*{Target Polarization }
-%The target positive tensor polarization $P_{zz}$  is calculated using the vector polarization $P_{z}$
-%using Boltzmann statistics for spin temperature equilibrium,
-%\begin{equation}
-%P_{zz}=2-\sqrt{4-3P_z^2}.
-%\end{equation}
-%The uncertainty in $P_{zz}$ depends only on the uncertainty in the NMR measurement of $P_z$.
-%This leads to the expression,
-%\begin{equation}
-%\delta P_{zz}=\frac{3P_z}{\sqrt{4-3P_z^2}}\delta P_z.
-%\end{equation}
-%%The polarization uncertainty for $ND_3$ have historically about 5\%.  
-%%However, with
-%%new techniques in polarization uncertainty minimization\cite{DUSTIN} we anticipate to be able to achieve
-%%considerable reduction.  Here we use the estimate of 4\% relative uncertainty in $P_z$ for and
-%%average vector polarization of 45\% leading to a relative uncertainty in $P_{zz}$ of 7.7\%.
 With careful minimization, the uncertainty in $P_z$ can be held to better than
 4\%, as demonstrated in the recent g2p/GEp experiment~\cite{DUSTIN}. 
 This leads to a a relative uncertainty in $P_{zz}$ of 7.7\%.  Alternatively, the tensor asymmetry can be directly extracted from the NMR lineshape as discussed in Sec.~\ref{POLTARGSEC}, with similar uncertainty.  The uncertainty from the dilution factor and packing fraction of the ammonia target contributes at the 4\% level.
