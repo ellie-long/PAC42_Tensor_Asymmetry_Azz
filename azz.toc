@@ -16,8 +16,8 @@
 \contentsline {subsection}{\numberline {3.1}Experimental Method}{9}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Statistical Uncertainty}{11}{subsubsection.3.1.1}
 \contentsline {subsubsection}{\numberline {3.1.2}Systematic Uncertainty}{11}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Kinematics}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.2}Kinematics}{14}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Polarized Target}{17}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Polarization Analysis}{17}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Depolarizing the Target}{19}{subsubsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3}Rendering Dilution Factor}{19}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Polarization Analysis}{19}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Depolarizing the Target}{20}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Rendering Dilution Factor}{20}{subsubsection.3.3.3}

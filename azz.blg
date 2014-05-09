@@ -1,5 +1,9 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: azz.aux
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: azz.aux
 The style file: input/prsty.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: input/bibliography.bib
 Warning--I didn't find a database entry for "needed"
 Warning--Warning: journal missing in entry Sargsian:2014bwa.
@@ -15,4 +19,45 @@ Warning--Warning: pages missing in entry McGauley:2011qc.
 Warning--Warning: journal missing in entry Bosted:2012qc.
 Warning--Warning: volume missing in entry Bosted:2012qc.
 Warning--Warning: pages missing in entry Bosted:2012qc.
+You've used 51 entries,
+            1909 wiz_defined-function locations,
+            833 strings with 11088 characters,
+and the built_in function-call counts, 10261 in all, are:
+= -- 298
+> -- 583
+< -- 0
++ -- 182
+- -- 131
+* -- 984
+:= -- 1318
+add.period$ -- 51
+call.type$ -- 51
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 64
+duplicate$ -- 492
+empty$ -- 971
+format.name$ -- 182
+if$ -- 2376
+int.to.chr$ -- 0
+int.to.str$ -- 51
+missing$ -- 0
+newline$ -- 156
+num.names$ -- 51
+pop$ -- 326
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 723
+stack$ -- 0
+substring$ -- 517
+swap$ -- 327
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 7
+warning$ -- 13
+while$ -- 98
+width$ -- 53
+write$ -- 254
 (There were 14 warnings)
