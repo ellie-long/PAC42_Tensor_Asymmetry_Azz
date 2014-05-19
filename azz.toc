@@ -1,23 +1,13 @@
-\contentsline {section}{\numberline {1}Quotes (To be removed)}{4}{section.1}
-\contentsline {subsection}{\numberline {1.1}Deuteron Form Factors}{4}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Light Cone Calculations}{4}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Guides to Experimental Set-Up}{5}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}LiD vs He2D}{5}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}Short Range Correlations}{5}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Notation and Conventions}{6}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Tensor Polarization/Force and NN Interactions/SRC}{6}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}6-quark systems, hidden color}{7}{subsection.1.8}
-\contentsline {subsection}{\numberline {1.9}Color transparency}{8}{subsection.1.9}
-\contentsline {subsection}{\numberline {1.10}Applications to Astrophysics}{8}{subsection.1.10}
-\contentsline {section}{\numberline {2}Background and Motivation}{8}{section.2}
-\contentsline {subsection}{\numberline {2.1}Deuteron Wavefunction}{9}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Tensor Asymmetry Azz}{9}{subsection.2.2}
-\contentsline {section}{\numberline {3}The Proposed Experiment}{9}{section.3}
-\contentsline {subsection}{\numberline {3.1}Experimental Method}{9}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Statistical Uncertainty}{11}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Systematic Uncertainty}{11}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Kinematics}{14}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Polarized Target}{17}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Polarization Analysis}{19}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Depolarizing the Target}{20}{subsubsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3}Rendering Dilution Factor}{20}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {1}Background and Motivation}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Deuteron Wavefunction}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Tensor Asymmetry Azz}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Separating the Deuteron S- and D-States}{5}{subsection.1.3}
+\contentsline {section}{\numberline {2}The Proposed Experiment}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Experimental Method}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Statistical Uncertainty}{7}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Systematic Uncertainty}{8}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Kinematics}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Polarized Target}{14}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Polarization Analysis}{16}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Depolarizing the Target}{17}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Rendering Dilution Factor}{17}{subsubsection.2.3.3}

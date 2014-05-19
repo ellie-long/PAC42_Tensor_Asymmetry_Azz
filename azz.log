@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.8.27)  16 MAY 2014 13:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2013.8.27)  19 MAY 2014 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,62 +618,63 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 
  [3
 
-] (./input/0_quotes.tex
+] (./input/intro.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
- [4
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 
-] [5]
-Overfull \hbox (0.58066pt too wide) in paragraph at lines 68--69
-\OT1/ptm/m/n/12 these mea-sure-ments have mapped out the Fourier trans-forms of
- the charge den-si-tites of the deuteron
- []
 
-[6] [7]) (./input/1_intro.tex [8]
-
-LaTeX Warning: Citation `needed' on page 9 undefined on input line 26.
+LaTeX Warning: Citation `needed' on page 4 undefined on input line 26.
 
 File: figs/deuteron_states.eps Graphic file (type eps)
-<figs/deuteron_states.eps>) (./input/Azz_method.tex [9]
-File: figs/fdil_q2_15.eps Graphic file (type eps)
- <figs/fdil_q2_15.eps>
-[10] [11] [12]) [13] (./input/kinematics.tex
-File: figs/Pzz_30_all_q2.eps Graphic file (type eps)
- <figs/Pzz_30_all_q2.eps>
-File: figs/Pzz_30_all_w.eps Graphic file (type eps)
+<figs/deuteron_states.eps>) (./input/sd_states.tex [4
 
-<figs/Pzz_30_all_w.eps> [14]
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+) (./input/Azz_method.tex [5]
+File: figs/fdil_q2_15.eps Graphic file (type eps)
+ <figs/fdil_q2_15.eps> [6] [7] [8] [9]) (./input/kinematics.tex
+File: figs/Pzz_30_all_q2.eps Graphic file (type eps)
+
+<figs/Pzz_30_all_q2.eps>
+File: figs/Pzz_30_all_w.eps Graphic file (type eps)
+ <figs/Pzz_30_all_w.eps>
 File: figs/Pzz_30_fdil_all.eps Graphic file (type eps)
  <figs/Pzz_30_fdil_all.eps>
 
-LaTeX Warning: Citation `needed' on page 15 undefined on input line 136.
+LaTeX Warning: Citation `needed' on page 10 undefined on input line 136.
 
 
-LaTeX Warning: Citation `needed' on page 15 undefined on input line 136.
+LaTeX Warning: Citation `needed' on page 10 undefined on input line 136.
 
+[10] [11]
 File: figs/Pzz_30_Azz_combo.eps Graphic file (type eps)
-<figs/Pzz_30_Azz_combo.eps> [15] [16]) (./input/target.tex
+ <figs/Pzz_30_Azz_combo.eps> [12] [13]) (./input/target.tex
 File: figs/targnew.eps Graphic file (type eps)
- <figs/targnew.eps>
+
+<figs/targnew.eps>
 File: figs/tensor_pol3.eps Graphic file (type eps)
-
-<figs/tensor_pol3.eps>
+ <figs/tensor_pol3.eps>
 File: figs/gen.eps Graphic file (type eps)
- <figs/gen.eps> [17
+ <figs/gen.eps> [14
 
-] [18] [19] [20]) [21] (./azz.bbl
-[22
+] [15] [16]
+[17]) [18] (./azz.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+ [19
 
 
-] [23])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
- [24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
  (./azz.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 135.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 Package rerunfilecheck Info: File `azz.out' has not changed.
-(rerunfilecheck)             Checksum: 168F6AFA5EB22F48E0ACC7A1885CDB37;1678.
+(rerunfilecheck)             Checksum: 7EC22BEC14C739171EA57CBE57DBB5AD;950.
 
 
 LaTeX Warning: There were undefined references.
@@ -681,15 +682,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 10740 strings out of 495060
- 168286 string characters out of 3182053
- 247169 words of memory out of 3000000
- 13757 multiletter control sequences out of 15000+200000
+ 10688 strings out of 495060
+ 167470 string characters out of 3182053
+ 246708 words of memory out of 3000000
+ 13705 multiletter control sequences out of 15000+200000
  15799 words of font info for 45 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,11n,34p,858b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,34p,863b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (24 pages, 140704 bytes).
+Output written on azz.dvi (19 pages, 87464 bytes).
