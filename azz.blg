@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: azz.aux
+The style file: input/prsty.bst
+Database file #1: input/bibliography.bib
+Repeated entry---line 1939 of file input/bibliography.bib
+ : @article{Frankfurt:1981mk
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2499 of file input/bibliography.bib
+ : @article{Frankfurt:1993sp
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "DUSTIN"
+Warning--I didn't find a database entry for "needed"
+Warning--Warning: journal missing in entry Bosted:2012qc.
+Warning--Warning: volume missing in entry Bosted:2012qc.
+Warning--Warning: pages missing in entry Bosted:2012qc.
+(There were 2 error messages)
