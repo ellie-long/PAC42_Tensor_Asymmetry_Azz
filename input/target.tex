@@ -108,30 +108,23 @@ and the tensor polarization is given by:
 \begin{eqnarray}
 \label{TVECT}P_{zz} = \frac{R^2-2 R +1}{R^2+R+1}
 \end{eqnarray}
+This measuring technique can be used as a compliment to the TE method resulting in reduced uncertainty in polarization.
 
 
-%or by comparison of the NMR response to the known thermal equilibrium (TE) polarization with typical 5\% uncertainty.
-
-The DNP technique produces  deuteron vector polarizations of up to 60\%  in ND$_3$ 
-and 64\% in LiD~\cite{Bueltmann:1998wq}, which corresponds to tensor polarizations of approximately 30\%.
-%Tensor polarizations of 22\% have been achieved in previous experiments~\cite{Meyer:1985dta}
-%using standard solid polarized ammonia targets.
-The target polarization decays while in beam, so that the average vector polarization 
-was about 35\% in the GEN experiment, as seen if Fig.~\ref{fig:gen}.
-
-%While it is not necessary for this experiment, it may be possible to directly determine the tensor polarization directly from the analyzing power T$_{20}$
-
-
-An average tensor polarization of \PZZ\% enables a significant measurement of $b_1(x)$, as shown in 
-Fig.~\ref{PROJ}.  Any improvement to the expected polarization, although not strictly necessary, 
-would allow the addition of kinematic points, and/or improved statistical accuracy.
-With this in mind, we are pursuing techniques to enhance the tensor polarization by directly stimulating 
-transitions to/from the $M_s=0$ state, as discussed in Ref.~\cite{Meyer:1985dta}.  D. Crabb from the UVa group  
-had some success in obtaining enhanced tensor polarizations via RF saturation of one of the Zeeman transitions, otherwise known as ``hole-burning''.  The method was not pursued due to the
-lack of need for tensor polarized targets at the time of the study.  Another method to enhance tensor polarization entails simultaneously pumping the sample with two independent microwave frequencies, 
-which requires careful isolation of the respective cavities. 
-%We reiterate that the rates in this proposal assume only polarizations that have been demonstrated previously during typical operation at JLab.
-
+\subsection{Tensor Polarization Enhancement}
+It is possible to enhance tensor polarization using rf irradiation on the oriented deuterium nuclei to manipulate the alignment.
+Applying a saturating rf field on the pedestal of the smaller transition equalizes the substate $m=+1$ and $m=0$ populations
+over 2/3 of the NMR signal.  This equalization over the range of a single pedestal leads to enhancement in tensor polarization with only a small loss
+to the overall area ($>4\%$).  Recent studies at UVA using deuterated butanol have resulted in a tensor polarization of more then
+25\% as shown in Fig.~\ref{fig:study}.  A similar result is expect for ND$_3$.  The studies also indicate that microwaves used during DNP does not
+interfere with the saturation from the rf irradiation when sufficient power is used.  This implies that rf over the pedestal can be done the same time DNP is performed to enhance the area while taking beam in an experiment.  Research and development is ongoing to study various
+techniques to optimize tensor enhancement for nuclear experiments targets.
+\begin{figure}
+\centering
+\includegraphics[width=3.0in,clip]{figs/study.eps}
+\caption{The deuterium magnetic resonance line shape showing tensor polarization of more than 25\% after rf saturation of a pedestal.}  
+\label{fig:study}
+\end{figure}
 
 \subsubsection{Depolarizing the Target}
 %The NMR will be used on both to probe polarization.  
@@ -192,4 +185,3 @@ A_{zz}P_{zz}/2}{(\sigma_N+3\sigma)p_f+\sigma_{He}(1-p_f)}\\
 where $\sigma_1 = \sigma(1+A_{zz}P_{zz}/2)$ has ben substituted, per 
 Eq.~\ref{eq:one}, with $P_B =0$. It can be seen that the above result 
 corresponds to Eq.~\ref{3}.
-
