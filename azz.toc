@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Background and Motivation}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Probing the Deuteron Wavefunction}{4}{subsection.1.1}
+\contentsline {section}{\numberline {2}The Proposed Experiment}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Experimental Method}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Kinematics}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Uncertainty Estimates}{12}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Statistical Uncertainty}{12}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Systematic Uncertainty}{12}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Polarized Target}{14}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Polarization Analysis}{15}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Tensor Polarization Enhancement}{17}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Depolarizing the Target}{17}{subsubsection.2.4.3}
+\contentsline {subsubsection}{\numberline {2.4.4}Dilution Factor}{18}{subsubsection.2.4.4}
+\contentsline {subsection}{\numberline {2.5}Overhead}{19}{subsection.2.5}
+\contentsline {section}{\numberline {3}Summary}{19}{section.3}
