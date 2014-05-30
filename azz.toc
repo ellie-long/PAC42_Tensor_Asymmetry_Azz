@@ -1,8 +1,9 @@
-\contentsline {section}{\numberline {1}Background and Motivation}{4}{section.1}
+\contentsline {section}{\numberline {1}Background}{4}{section.1}
 \contentsline {subsection}{\numberline {1.1}Probing the Deuteron Wavefunction}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Interest from Theorists}{6}{subsection.1.2}
 \contentsline {section}{\numberline {2}The Proposed Experiment}{6}{section.2}
 \contentsline {subsection}{\numberline {2.1}Experimental Method}{6}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Kinematics}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Kinematics}{8}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Uncertainty Estimates}{12}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Statistical Uncertainty}{12}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}Systematic Uncertainty}{12}{subsubsection.2.3.2}
