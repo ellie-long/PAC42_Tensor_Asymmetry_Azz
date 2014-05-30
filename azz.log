@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 16:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 17:36
 entering extended mode
 **azz.tex
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.tex
@@ -623,17 +623,25 @@ File: figs/sd_wf_av18.eps Graphic file (type eps)
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-) [5]
+ [5])
+(C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/prop
+_t20.tex [6])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/theo
 ry_interest.tex)
+Overfull \hbox (1.26169pt too wide) in paragraph at lines 7--73
+[]\OT1/ptm/m/n/12 ``I'm cur-rently work-ing on a code to com-pute the quasi-ela
+stic con-tri-bu-tion to in-clu-sive deuteron
+ []
+
+
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/Azz_
-method.tex [6]
+method.tex [7]
 File: figs/fdil_q2_15.eps Graphic file (type eps)
- <figs/fdil_q2_15.eps>)
+ <figs/fdil_q2_15.eps> [8])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/kine
-matics.tex [7]
+matics.tex
 File: figs/Pzz_30_all_q2_w.eps Graphic file (type eps)
- <figs/Pzz_30_all_q2_w.eps> [8]
+ <figs/Pzz_30_all_q2_w.eps>
 File: figs/Pzz_30_fdil_all.eps Graphic file (type eps)
  <figs/Pzz_30_fdil_all.eps>
 File: figs/Pzz_30_q2_15_Azz_w_misak.eps Graphic file (type eps)
@@ -641,53 +649,53 @@ File: figs/Pzz_30_q2_15_Azz_w_misak.eps Graphic file (type eps)
 <figs/Pzz_30_q2_15_Azz_w_misak.eps>
 File: figs/Pzz_30_q2_03_07_Azz_fs.eps Graphic file (type eps)
  <figs/Pzz_30_q2_03_07_Azz_fs.eps> [9]
-[10] [11])
+[10] [11] [12])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/unce
-rtainties.tex [12
+rtainties.tex [13
 
-] [13])
+] [14])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/targ
-et.tex [14]
+et.tex [15]
 File: figs/targnew.eps Graphic file (type eps)
  <figs/targnew.eps>
 File: figs/tensor_pol3.eps Graphic file (type eps)
- <figs/tensor_pol3.eps> [15] [16]
+ <figs/tensor_pol3.eps> [16] [17]
 File: figs/study.eps Graphic file (type eps)
 
-<figs/study.eps> [17]
+<figs/study.eps> [18]
 File: figs/pol_cycle.eps Graphic file (type eps)
- <figs/pol_cycle.eps> [18])
+ <figs/pol_cycle.eps> [19])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/over
 head.tex)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/summ
-ary.tex) [19]
-(C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-
-[20
+ary.tex) [20]
+(C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.bbl
+[21
 
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
+ [22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
 
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 132.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
 Package rerunfilecheck Info: File `azz.out' has not changed.
-(rerunfilecheck)             Checksum: 7D09A35FEB97D99662866A719C06A4F5;1130.
+(rerunfilecheck)             Checksum: DC3B8C0B2F532CF6791EF68322FBE185;1222.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
  ) 
 Here is how much of TeX's memory you used:
- 11142 strings out of 493922
- 183487 string characters out of 3147278
- 259136 words of memory out of 3000000
- 14256 multiletter control sequences out of 15000+200000
+ 11153 strings out of 493922
+ 183790 string characters out of 3147278
+ 264511 words of memory out of 3000000
+ 14264 multiletter control sequences out of 15000+200000
  15799 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,11n,35p,1066b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,35p,1066b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (20 pages, 95224 bytes).
+Output written on azz.dvi (22 pages, 106200 bytes).
