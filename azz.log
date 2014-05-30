@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 18:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 19:00
 entering extended mode
 **azz.tex
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.tex
@@ -629,13 +629,13 @@ _t20.tex [6]
 File: figs/misak_vn_lc.eps Graphic file (type eps)
  <figs/misak_vn_lc.eps>)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/theo
-ry_interest.tex)
-Overfull \hbox (1.26169pt too wide) in paragraph at lines 7--73
+ry_interest.tex
+Overfull \hbox (1.26169pt too wide) in paragraph at lines 7--11
 []\OT1/ptm/m/n/12 ``I'm cur-rently work-ing on a code to com-pute the quasi-ela
 stic con-tri-bu-tion to in-clu-sive deuteron
  []
 
-
+)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/Azz_
 method.tex [7]
 File: figs/fdil_q2_15.eps Graphic file (type eps)
@@ -700,4 +700,4 @@ Here is how much of TeX's memory you used:
  841 hyphenation exceptions out of 8191
  37i,11n,35p,916b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (22 pages, 106920 bytes).
+Output written on azz.dvi (22 pages, 107432 bytes).
