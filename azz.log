@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 19:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 19:21
 entering extended mode
 **azz.tex
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.tex
@@ -630,54 +630,54 @@ File: figs/misak_vn_lc.eps Graphic file (type eps)
  <figs/misak_vn_lc.eps>)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/theo
 ry_interest.tex
-Overfull \hbox (1.26169pt too wide) in paragraph at lines 7--11
+Overfull \hbox (1.26169pt too wide) in paragraph at lines 9--13
 []\OT1/ptm/m/n/12 ``I'm cur-rently work-ing on a code to com-pute the quasi-ela
 stic con-tri-bu-tion to in-clu-sive deuteron
  []
 
 )
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/Azz_
-method.tex [7]
+method.tex [7] [8]
 File: figs/fdil_q2_15.eps Graphic file (type eps)
- <figs/fdil_q2_15.eps> [8])
+ <figs/fdil_q2_15.eps>)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/kine
 matics.tex
 File: figs/Pzz_30_all_q2_w.eps Graphic file (type eps)
- <figs/Pzz_30_all_q2_w.eps> [9]
+ <figs/Pzz_30_all_q2_w.eps> [9] [10]
 File: figs/Pzz_30_fdil_all.eps Graphic file (type eps)
  <figs/Pzz_30_fdil_all.eps>
 File: figs/Pzz_30_q2_15_Azz_w_misak.eps Graphic file (type eps)
 
 <figs/Pzz_30_q2_15_Azz_w_misak.eps>
 File: figs/Pzz_30_q2_03_07_Azz_fs.eps Graphic file (type eps)
- <figs/Pzz_30_q2_03_07_Azz_fs.eps> [10]
-[11] [12])
+ <figs/Pzz_30_q2_03_07_Azz_fs.eps> [11]
+[12] [13])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/unce
-rtainties.tex [13
+rtainties.tex [14
 
-] [14])
+] [15])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/targ
-et.tex [15]
+et.tex [16]
 File: figs/targnew.eps Graphic file (type eps)
  <figs/targnew.eps>
 File: figs/tensor_pol3.eps Graphic file (type eps)
- <figs/tensor_pol3.eps> [16] [17]
+ <figs/tensor_pol3.eps> [17] [18]
 File: figs/study.eps Graphic file (type eps)
 
-<figs/study.eps> [18]
+<figs/study.eps> [19]
 File: figs/pol_cycle.eps Graphic file (type eps)
- <figs/pol_cycle.eps> [19])
+ <figs/pol_cycle.eps> [20])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/over
 head.tex)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/summ
-ary.tex) [20]
+ary.tex) [21]
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.bbl
-[21
+[22
 
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
- [22]
+ [23]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
 
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.aux)
@@ -694,10 +694,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
 Here is how much of TeX's memory you used:
  11156 strings out of 493922
  183836 string characters out of 3147278
- 261812 words of memory out of 3000000
+ 262813 words of memory out of 3000000
  14266 multiletter control sequences out of 15000+200000
  15799 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  37i,11n,35p,916b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (22 pages, 107432 bytes).
+Output written on azz.dvi (23 pages, 108032 bytes).
