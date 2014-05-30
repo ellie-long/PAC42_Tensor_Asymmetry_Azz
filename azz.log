@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 17:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  30 MAY 2014 17:48
 entering extended mode
 **azz.tex
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.tex
@@ -639,7 +639,7 @@ method.tex [7]
 File: figs/fdil_q2_15.eps Graphic file (type eps)
  <figs/fdil_q2_15.eps> [8])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/kine
-matics.tex
+matics.tex [9]
 File: figs/Pzz_30_all_q2_w.eps Graphic file (type eps)
  <figs/Pzz_30_all_q2_w.eps>
 File: figs/Pzz_30_fdil_all.eps Graphic file (type eps)
@@ -648,8 +648,8 @@ File: figs/Pzz_30_q2_15_Azz_w_misak.eps Graphic file (type eps)
 
 <figs/Pzz_30_q2_15_Azz_w_misak.eps>
 File: figs/Pzz_30_q2_03_07_Azz_fs.eps Graphic file (type eps)
- <figs/Pzz_30_q2_03_07_Azz_fs.eps> [9]
-[10] [11] [12])
+ <figs/Pzz_30_q2_03_07_Azz_fs.eps> [10]
+[11] [12])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/unce
 rtainties.tex [13
 
@@ -692,10 +692,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
 Here is how much of TeX's memory you used:
  11153 strings out of 493922
  183790 string characters out of 3147278
- 264511 words of memory out of 3000000
+ 259510 words of memory out of 3000000
  14264 multiletter control sequences out of 15000+200000
  15799 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  37i,11n,35p,1066b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (22 pages, 106212 bytes).
+Output written on azz.dvi (22 pages, 105996 bytes).
