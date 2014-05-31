@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  31 MAY 2014 09:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  31 MAY 2014 10:51
 entering extended mode
 **azz.tex
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.tex
@@ -619,31 +619,21 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 
 ]
 File: figs/sd_wf_av18.eps Graphic file (type eps)
- <figs/sd_wf_av18.eps>
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- [5])
-(C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/prop
-_t20.tex [6]
+ <figs/sd_wf_av18.eps> [5])
+(C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/rel_
+nn.tex [6]
 File: figs/misak_vn_lc.eps Graphic file (type eps)
  <figs/misak_vn_lc.eps>)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/theo
-ry_interest.tex
-Overfull \hbox (1.26169pt too wide) in paragraph at lines 9--13
-[]\OT1/ptm/m/n/12 ``I'm cur-rently work-ing on a code to com-pute the quasi-ela
-stic con-tri-bu-tion to in-clu-sive deuteron
- []
-
-)
+ry_interest.tex [7])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/Azz_
-method.tex [7] [8]
+method.tex [8]
 File: figs/fdil_q2_15.eps Graphic file (type eps)
- <figs/fdil_q2_15.eps>)
+ <figs/fdil_q2_15.eps> [9])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/kine
 matics.tex
 File: figs/Pzz_30_all_q2_w.eps Graphic file (type eps)
- <figs/Pzz_30_all_q2_w.eps> [9] [10]
+ <figs/Pzz_30_all_q2_w.eps> [10]
 File: figs/Pzz_30_fdil_all.eps Graphic file (type eps)
  <figs/Pzz_30_fdil_all.eps>
 File: figs/Pzz_30_q2_15_Azz_w_misak.eps Graphic file (type eps)
@@ -692,12 +682,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
  ) 
 Here is how much of TeX's memory you used:
- 11156 strings out of 493922
- 183836 string characters out of 3147278
- 262824 words of memory out of 3000000
- 14266 multiletter control sequences out of 15000+200000
+ 11161 strings out of 493922
+ 183902 string characters out of 3147278
+ 261002 words of memory out of 3000000
+ 14271 multiletter control sequences out of 15000+200000
  15799 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,11n,35p,916b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,35p,916b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (23 pages, 108048 bytes).
+Output written on azz.dvi (23 pages, 112372 bytes).
