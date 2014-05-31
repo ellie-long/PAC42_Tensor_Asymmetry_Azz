@@ -1,4 +1,6 @@
 \subsection{Uncertainty Estimates}
+We discuss here the expected experimental and systematic uncertainties that we expect to contribute to the measurement.
+
 \subsubsection{Statistical Uncertainty}
 \label{stat}
 To investigate the statistical uncertainty we start with the equation for $A_{zz}$ using
@@ -15,6 +17,8 @@ For $\delta N_{p(u)}=\sqrt{N_{p(u)}}$, the uncertainty becomes
 \delta A_{zz}=\frac{2}{fP_{zz}}\sqrt{\frac{N_p(N_u + N_p)}{N_u^3}},
 \end{equation}
 which can't be simplified further due to the large expected asymmetry.
+
+The number of counts was calculated using a combination of P. Bosted's~\cite{Bosted:2012qc} and M. Sargsian's~\cite{misak-convo} code. The Bosted code was used for the lowest $Q^2$ setting, where effects of SRC scaling are expected to be negligible, and for $x<1.1$ to accurately determine the quasi-elastic peak. The Sargsian code was used for the higher $Q^2$ settings at $x>1.1$ due to its inclusion of SRC scaling effects.
 
 
 \subsubsection{Systematic Uncertainty}% in $A_{zz}$ }
@@ -39,12 +43,14 @@ Total								& 14\%   \\
 \end{table}
 
 Table \ref{error1} shows a list of the scale dependent uncertainties contributing to the systematic error in $A_{zz}$.
-With careful uncertainty minimization in polarization the relative error in vector polarization, $Pz$, can be less than or equal to 3.9\%, as demonstrated in the recent E08-027/E08-007 experiment~\cite{NIMDUST} and nearly as good for the deuteron using multiple techniques to measure the NMR signal as discussed in ~\cite{PTSTDUST}.  With the use of a positive tensor enhanced target it has been projected to be able to achieve a relative error in $P_{zz}$ better than 12\% ~\cite{PTSTDUST}.  The uncertainty from the dilution in the polarized target is estimated to be
+With careful uncertainty minimization in polarization the relative error in vector polarization, $Pz$, can be less than or equal to 3.9\%, as was demonstrated for the proton in the recent E08-027/E08-007 experiment~\cite{NIMDUST} and nearly as good for the deuteron using multiple techniques to measure the NMR signal as discussed in ~\cite{PTSTDUST}.  With the use of a positive tensor enhanced target it has been projected to be able to achieve a relative error in $P_{zz}$ better than 12\% ~\cite{PTSTDUST}.  The uncertainty from the dilution in the polarized target is estimated to be
 about 6\% over the range of kinematics points of interest.  We consider separately the uncertainty in the packing fraction of the ammonia target contributes at a level of less than 3\%. Charge calibration and detector efficiencies are expected to be known better to 1\%. 
 %but the impact of time-dependent drifts in these quantities must be carefully controlled.
 
 \subsubsection*{Time Dependent Systematic Effects}
-Eq.~\ref{3} involves the ratio of counts, which leads to cancellation of several first order systematic effects.  However, the fact that the two data sets will not be taken simultaneously leads to a sensitivity to time dependent variations which will be monitored and suppressed. While typical false asymmetries in Hall C of $0.01$ are acceptable for this proposed measurement, we are interested in a strict control of the systematics for further reduction.
+Eq.~\ref{3} involves the ratio of counts, which leads to cancellation of several first order systematic effects.  However, the fact that the two data sets will not be taken simultaneously leads to a sensitivity to time dependent variations which will be monitored and suppressed. The typical size of these types of effects are small compared to the large asymmetries predicted for most of the proposed kinematic regions, but must be carefully monitored whenever the expected asymmetry is small, such as at a zero crossing.
+
+%While typical false asymmetries in Hall C of $0.1\%$ are acceptable for this proposed measurement, we are interested in a strict control of the systematics for further reduction.
 %
 To investigate the systematic differences in the time dependent components of the integrated counts, we need to consider the effects from calibration, efficiency, acceptance, and luminosity between the two polarization states.
 

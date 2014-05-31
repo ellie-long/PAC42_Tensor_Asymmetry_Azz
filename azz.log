@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  31 MAY 2014 17:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.8.17)  31 MAY 2014 17:48
 entering extended mode
 **azz.tex
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.tex
@@ -631,9 +631,9 @@ method.tex [8]
 File: figs/fdil_q2_15.eps Graphic file (type eps)
  <figs/fdil_q2_15.eps> [9])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/kine
-matics.tex [10]
+matics.tex
 File: figs/Pzz_30_all_q2_w.eps Graphic file (type eps)
- <figs/Pzz_30_all_q2_w.eps>
+ <figs/Pzz_30_all_q2_w.eps> [10]
 File: figs/Pzz_30_fdil_all.eps Graphic file (type eps)
  <figs/Pzz_30_fdil_all.eps>
 File: figs/Pzz_30_q2_15_Azz_w_misak.eps Graphic file (type eps)
@@ -643,7 +643,13 @@ File: figs/Pzz_30_q2_03_07_Azz_fs.eps Graphic file (type eps)
  <figs/Pzz_30_q2_03_07_Azz_fs.eps> [11]
 [12] [13])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/unce
-rtainties.tex [14
+rtainties.tex
+Overfull \hbox (19.28615pt too wide) in paragraph at lines 21--22
+[]\OT1/ptm/m/n/12 The num-ber of counts was cal-cu-lated us-ing a com-bi-na-tio
+n of P. Bosted's [[]] and M. Sargsian's [[]]
+ []
+
+[14
 
 ] [15])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/targ
@@ -654,13 +660,13 @@ File: figs/tensor_pol3.eps Graphic file (type eps)
  <figs/tensor_pol3.eps> [17] [18]
 File: figs/study.eps Graphic file (type eps)
 
-<figs/study.eps> [19]
+<figs/study.eps>
 File: figs/pol_cycle.eps Graphic file (type eps)
- <figs/pol_cycle.eps> [20])
+ <figs/pol_cycle.eps> [19] [20])
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/over
 head.tex)
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\input/summ
-ary.tex) [21] [22]
+ary.tex [21]) [22]
 (C:\Users\NearFuturistic\Documents\GitHub\PAC42_Tensor_Asymmetry_Azz\azz.bbl
 [23
 
@@ -684,10 +690,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
 Here is how much of TeX's memory you used:
  11162 strings out of 493922
  183917 string characters out of 3147278
- 260038 words of memory out of 3000000
+ 262163 words of memory out of 3000000
  14272 multiletter control sequences out of 15000+200000
  15799 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  37i,11n,35p,876b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on azz.dvi (24 pages, 114116 bytes).
+Output written on azz.dvi (24 pages, 115660 bytes).

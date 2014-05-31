@@ -8,10 +8,10 @@
 \contentsline {subsection}{\numberline {2.3}Uncertainty Estimates}{14}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Statistical Uncertainty}{14}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}Systematic Uncertainty}{14}{subsubsection.2.3.2}
-\contentsline {subsection}{\numberline {2.4}Polarized Target}{16}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}Polarization Analysis}{17}{subsubsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4}Polarized Target}{17}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Polarization Analysis}{18}{subsubsection.2.4.1}
 \contentsline {subsubsection}{\numberline {2.4.2}Tensor Polarization Enhancement}{19}{subsubsection.2.4.2}
 \contentsline {subsubsection}{\numberline {2.4.3}Depolarizing the Target}{19}{subsubsection.2.4.3}
-\contentsline {subsubsection}{\numberline {2.4.4}Dilution Factor}{20}{subsubsection.2.4.4}
+\contentsline {subsubsection}{\numberline {2.4.4}Dilution Factor}{21}{subsubsection.2.4.4}
 \contentsline {subsection}{\numberline {2.5}Overhead}{21}{subsection.2.5}
 \contentsline {section}{\numberline {3}Summary}{21}{section.3}
