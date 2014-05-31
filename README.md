@@ -8,7 +8,7 @@ deuteron (e,e') reaction.   Our goal at this point is to get support from variou
 groups to help with the physics modivation.
 
 Misak Sargasian ( light cone )
-Wally van Orden ( classic nuclear )
+Wally Van Orden ( classic nuclear )
 Jerry Miller ( 6 quark bag )
 
 As we can cover a large range in Q2, it may way be at low Q2 we see the classic nuclear picture
